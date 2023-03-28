@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="S1" verbose="2">
+<test name="T1">
+
+ <parameter name="name" value="cow"></parameter>
+
+<classes>
+
+<class name="testNG.ParameterizationExepl"></class>
+
+</classes>
+</test> 
+</suite> 
+
+
+<!-- Creating Commented tag Ctrl + Shift + ? -->
+
+<!-- 
+<class name="testNG.Driveacar"></class>
+<class name="testNG.Sample_testcase"></class>
+<class name="testNG.SkipATestcase"></class>
+
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
